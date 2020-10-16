@@ -5,4 +5,4 @@ This git includes a presentation matertial of Samsung Open Source Conference (SO
 
 	Presenter: Constant Park (sonicstage12@naver.com)  
 	PPT: https://github.com/ConstantPark/Neural-Network-Acceleration-2/blob/master/Neural_Network_Inference_on_Mobile_SoCs.pdf
-	Video: https://youtu.be/bMhVA0hjx64
+	Video: https://youtu.be/gEVaCDQ2CZI
