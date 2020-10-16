@@ -4,3 +4,4 @@ This git includes a presentation matertial of Samsung Open Source Conference (SO
 	Presenter: Constant Park (sonicstage12@naver.com)  
 	PPT: https://github.com/ConstantPark/SOSCON_2020/blob/main/SOSCON.pdf
 	Video: https://youtu.be/gEVaCDQ2CZI
+	Web Page: https://www.soscon.net/Session/Section/04
