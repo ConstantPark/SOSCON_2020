@@ -1,5 +1,5 @@
 ## SOSCON_2020, Beyond Open Source Hardware, Open Source Processor
-This git includes a presentation matertial of Samsung Open Source Conference (SOSCON) 2020, "Beyond Open Source Hardware, Open Source Processor".
+This git includes a presentation matertial of Samsung Open Source Conference (SOSCON) 2020, "Beyond Open Source Hardware, Open Source Processor". The topic of acceleration includes `CPU`, `Open Source CPU`, `RISC-V`, `NVDLA`.
 
 
 CPU/GPU and NPU
